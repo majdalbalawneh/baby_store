@@ -31,5 +31,5 @@ Build E-commerce website using WordPress The user can add product to carts and m
 * We took into account that the page is responsive
 
 1. Project Wireframe
-   * [trello Link](https://trello.com/b/YelT10s7/wp-project)
+   * [trello Link](https://trello.com/b/XlFB2plC/baby-stor)
 
