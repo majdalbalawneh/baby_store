@@ -18,7 +18,8 @@ After We Learn Set of Topics Like:
 1. Git
 1. JavaScript
 1. JSON
-1.wordpress
+1. wordpress
+
 WE DO IT!
 
 
@@ -30,6 +31,6 @@ Build E-commerce website using WordPress The user can add product to carts and m
 
 * We took into account that the page is responsive
 
-1. Project Wireframe
+1. trello link
    * [trello Link](https://trello.com/b/XlFB2plC/baby-stor)
 
